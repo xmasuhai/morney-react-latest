@@ -1,3 +1,13 @@
+# 旺财记账 React pnpm create-react-app@latest
+
+## 环境
+
+- `node 18`
+- `pnpm 8.9.2`
+- 保持 `react`、`react-dom`、`"@types/react`、`@types/react` 大版本号一致
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
